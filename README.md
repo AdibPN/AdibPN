@@ -6,7 +6,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/adibpaulini/)
 
 
-![AdibPN GitHub stats](https://github-readme-stats.vercel.app/api?username=AdibPN&show_icons=true&theme=dracula)
+![AdibPN GitHub stats](https://github-readme-stats.vercel.app/api?username=AdibPN&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso 
 
